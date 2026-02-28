@@ -144,7 +144,7 @@
                     }),
                   }),
                   (0, l.jsx)("a", {
-                    href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xcomingsoon",
+                    href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x44a9d34edaa356e30048682577b164c823164444",
                     children: (0, l.jsx)(i.default, {
                       src: "/unknown.svg",
                       alt: "logo",
@@ -155,7 +155,7 @@
                     }),
                   }),
                   (0, l.jsxs)("a", {
-                    href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
+                    href: "https://pancakeswap.finance/swap?outputCurrency=0x44a9d34edaa356e30048682577b164c823164444",
                     className:
                       "border-2 border-[#F0B912] rounded-full px-8 py-2 text-[#F0B912] transition-transform duration-300 hover:scale-105 hover:-translate-y-1 relative",
                     children: [
@@ -419,7 +419,7 @@
                             // (0, l.jsx)("br", {}),
                             // "LP Tokens: Burnt",
                             (0, l.jsx)("br", {}),
-                            "CA: 0xcomingsoon",
+                            "CA: 0x44a9d34edaa356e30048682577b164c823164444",
                           ],
                         }),
                       ],
@@ -515,7 +515,7 @@
                           children: "Buy Now:",
                         }),
                         (0, l.jsx)("a", {
-                          href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
+                          href: "https://pancakeswap.finance/swap?outputCurrency=0x44a9d34edaa356e30048682577b164c823164444",
                           className:
                             "single-day text-[#4C4C4C] text-xl !leading-[100%] mb-8",
                           children: "→ PancakeSwap",
@@ -757,7 +757,7 @@
                               (0, l.jsx)("br", {}),
                               "LP Tokens: Burnt",
                               (0, l.jsx)("br", {}),
-                              "CA: 0xcomingsoon",
+                              "CA: 0x44a9d34edaa356e30048682577b164c823164444",
                             ],
                           }),
                         ],
@@ -853,7 +853,7 @@
                             children: "Buy Now:",
                           }),
                           (0, l.jsx)("a", {
-                            href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
+                            href: "https://pancakeswap.finance/swap?outputCurrency=0x44a9d34edaa356e30048682577b164c823164444",
                             className:
                               "single-day text-[#4C4C4C] text-sm !leading-[100%] mb-2",
                             children: "→ PancakeSwap",
