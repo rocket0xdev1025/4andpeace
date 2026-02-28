@@ -122,7 +122,7 @@
                   "flex items-center gap-2 absolute top-8 right-8 md:right-6",
                 children: [
                   (0, l.jsx)("a", {
-                    href: "https://x.com/czbook_4peace",
+                    href: "https://x.com/fourandpeace_x",
                     children: (0, l.jsx)(i.default, {
                       src: "/x.svg",
                       alt: "logo",
@@ -133,7 +133,7 @@
                     }),
                   }),
                   (0, l.jsx)("a", {
-                    href: "https://t.me/czbook_4peace",
+                    href: "https://t.me/fourandpeace",
                     children: (0, l.jsx)(i.default, {
                       src: "/tg.svg",
                       alt: "logo",
@@ -144,7 +144,7 @@
                     }),
                   }),
                   (0, l.jsx)("a", {
-                    href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x44a9d34edaa356e30048682577b164c823164444",
+                    href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xcomingsoon",
                     children: (0, l.jsx)(i.default, {
                       src: "/unknown.svg",
                       alt: "logo",
@@ -155,7 +155,7 @@
                     }),
                   }),
                   (0, l.jsxs)("a", {
-                    href: "https://pancakeswap.finance/swap?outputCurrency=0x44a9d34edaa356e30048682577b164c823164444",
+                    href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
                     className:
                       "border-2 border-[#F0B912] rounded-full px-8 py-2 text-[#F0B912] transition-transform duration-300 hover:scale-105 hover:-translate-y-1 relative",
                     children: [
@@ -419,7 +419,7 @@
                             // (0, l.jsx)("br", {}),
                             // "LP Tokens: Burnt",
                             (0, l.jsx)("br", {}),
-                            "CA: 0x44a9d34edaa356e30048682577b164c823164444",
+                            "CA: 0xcomingsoon",
                           ],
                         }),
                       ],
@@ -515,7 +515,7 @@
                           children: "Buy Now:",
                         }),
                         (0, l.jsx)("a", {
-                          href: "https://pancakeswap.finance/swap?outputCurrency=0x44a9d34edaa356e30048682577b164c823164444",
+                          href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
                           className:
                             "single-day text-[#4C4C4C] text-xl !leading-[100%] mb-8",
                           children: "→ PancakeSwap",
@@ -526,7 +526,7 @@
                           children: "telegram",
                         }),
                         (0, l.jsx)("a", {
-                          href: "https://t.me/czbook_4peace",
+                          href: "https://t.me/fourandpeace",
                           className:
                             "single-day text-[#4C4C4C] text-xl !leading-[100%] mb-8",
                           children: "→ @fourandpeace_cz",
@@ -537,7 +537,7 @@
                           children: "twitter:",
                         }),
                         (0, l.jsx)("a", {
-                          href: "https://x.com/czbook_4peace",
+                          href: "https://x.com/fourandpeace_x",
                           className:
                             "single-day text-[#4C4C4C] text-xl !leading-[100%]",
                           children: "→ @fourandpeace_cz",
@@ -757,7 +757,7 @@
                               (0, l.jsx)("br", {}),
                               "LP Tokens: Burnt",
                               (0, l.jsx)("br", {}),
-                              "CA: 0x44a9d34edaa356e30048682577b164c823164444",
+                              "CA: 0xcomingsoon",
                             ],
                           }),
                         ],
@@ -853,7 +853,7 @@
                             children: "Buy Now:",
                           }),
                           (0, l.jsx)("a", {
-                            href: "https://pancakeswap.finance/swap?outputCurrency=0x44a9d34edaa356e30048682577b164c823164444",
+                            href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
                             className:
                               "single-day text-[#4C4C4C] text-sm !leading-[100%] mb-2",
                             children: "→ PancakeSwap",
